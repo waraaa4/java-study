@@ -1,0 +1,3541 @@
+.metadata
+	.lock
+	.log
+	.mylyn
+		.taskListIndex
+			segments_1
+			write.lock
+
+		.tasks.xml.zip
+		contexts
+
+		repositories.xml.zip
+		tasks.xml.zip
+
+	.plugins
+		com.genuitec.eclipse.devstyle
+			recent.json
+
+		com.genuitec.eclipse.ui.common.platform
+			color-definitions-fix.css
+			colors-org.eclipse.buildship.ui-1231266899.css
+			colors-org.eclipse.egit.ui-1849137576.css
+			colors-org.eclipse.epp.mpc.ui.css--1027399938.css
+			colors-org.eclipse.jdt.ui-326703266.css
+			colors-org.eclipse.mylyn.tasks.ui--477129374.css
+			splash-fix.css
+
+		org.eclipse.buildship.core
+			init.d
+				eclipsePlugin.gradle
+
+
+		org.eclipse.core.resources
+			.history
+				0
+
+				1
+					50041f316550001f19d0a745cb68a2e0
+					601095d5ac4f001f1be2c3e05bea2199
+					c0833caeae4f001f1be2c3e05bea2199
+
+				10
+					903d042ea64f001f1be2c3e05bea2199
+					b0fc67cdaf4f001f1be2c3e05bea2199
+
+				11
+
+				12
+
+				13
+					30baf5edaf4f001f1be2c3e05bea2199
+
+				14
+					b0a3114ca44f001f1be2c3e05bea2199
+
+				15
+					30f3a95fab4f001f1be2c3e05bea2199
+
+				16
+					407ef81ea34f001f1be2c3e05bea2199
+
+				17
+					b0c9a810a54f001f1be2c3e05bea2199
+
+				18
+					102fe490ab4f001f1be2c3e05bea2199
+					50f03fd7a34f001f1be2c3e05bea2199
+
+				19
+					603c0498a44f001f1be2c3e05bea2199
+
+				1a
+
+				1b
+					20d7ad53a34f001f1be2c3e05bea2199
+					60ba231ea94f001f1be2c3e05bea2199
+					a0180021a44f001f1be2c3e05bea2199
+
+				1c
+					500200fca24f001f1be2c3e05bea2199
+					a05a427cab4f001f1be2c3e05bea2199
+
+				1d
+
+				1e
+
+				1f
+					00ce0f67a24f001f1be2c3e05bea2199
+
+				2
+					00ba028b6750001f19d0a745cb68a2e0
+					b0459646ab4f001f1be2c3e05bea2199
+					c08a3c7ba84f001f1be2c3e05bea2199
+					f08eb87ea44f001f1be2c3e05bea2199
+
+				20
+					a0e68210af4f001f1be2c3e05bea2199
+					e02301b46450001f19d0a745cb68a2e0
+					f0ec4b9dad4f001f1be2c3e05bea2199
+
+				21
+					10da6e4aad4f001f1be2c3e05bea2199
+					a0b162f0a64f001f1be2c3e05bea2199
+					f0c77e9fac4f001f1be2c3e05bea2199
+
+				22
+					000d8d28a74f001f1be2c3e05bea2199
+					70a94099a34f001f1be2c3e05bea2199
+
+				23
+
+				24
+
+				25
+
+				26
+					400ce724a34f001f1be2c3e05bea2199
+
+				27
+					0040289b6550001f19d0a745cb68a2e0
+					d0cbedbb6450001f19d0a745cb68a2e0
+
+				28
+					40547c1fa34f001f1be2c3e05bea2199
+					e0250629ad4f001f1be2c3e05bea2199
+					e0c618e4a24f001f1be2c3e05bea2199
+
+				29
+					40e1fd57ac4f001f1be2c3e05bea2199
+
+				2a
+					20b91382aa4f001f1be2c3e05bea2199
+					b0c6110aa54f001f1be2c3e05bea2199
+
+				2b
+
+				2c
+					809a2a18a84f001f1be2c3e05bea2199
+					e0421bbaad4f001f1be2c3e05bea2199
+
+				2d
+					f05bc981a54f001f1be2c3e05bea2199
+
+				2e
+					8003f918a74f001f1be2c3e05bea2199
+
+				2f
+
+				3
+					0012db4ea64f001f1be2c3e05bea2199
+					00442c54a54f001f1be2c3e05bea2199
+					e066e3066550001f19d0a745cb68a2e0
+
+				30
+
+				31
+
+				32
+					10a1f446a54f001f1be2c3e05bea2199
+
+				33
+					e0635038a74f001f1be2c3e05bea2199
+
+				34
+					90599824af4f001f1be2c3e05bea2199
+
+				35
+					f0f3136daf4f001f1be2c3e05bea2199
+
+				36
+
+				37
+
+				38
+
+				39
+					905c319caa4f001f1be2c3e05bea2199
+
+				3a
+					e0cd2f86a64f001f1be2c3e05bea2199
+
+				3b
+
+				3c
+
+				3d
+					5096ba216550001f19d0a745cb68a2e0
+					a0700b41ad4f001f1be2c3e05bea2199
+					f0db3d79a54f001f1be2c3e05bea2199
+
+				3e
+					900e486ba44f001f1be2c3e05bea2199
+
+				3f
+					9027ad1d6950001f19d0a745cb68a2e0
+
+				4
+					0012edaaab4f001f1be2c3e05bea2199
+
+				40
+
+				41
+					003d9990a34f001f1be2c3e05bea2199
+
+				42
+					00ea1824a74f001f1be2c3e05bea2199
+
+				43
+					60c4dea9ad4f001f1be2c3e05bea2199
+
+				44
+					40df9adda44f001f1be2c3e05bea2199
+
+				45
+					1008e451ad4f001f1be2c3e05bea2199
+					d05f1a88a64f001f1be2c3e05bea2199
+
+				46
+
+				47
+					3064ce1ea74f001f1be2c3e05bea2199
+
+				48
+
+				49
+
+				4a
+
+				4b
+					b00c06736550001f19d0a745cb68a2e0
+
+				4c
+
+				4d
+
+				4e
+					40c7f657aa4f001f1be2c3e05bea2199
+					a0b9e00caf4f001f1be2c3e05bea2199
+
+				4f
+
+				5
+
+				50
+					807b7416a74f001f1be2c3e05bea2199
+
+				51
+
+				52
+					50f74c4ba84f001f1be2c3e05bea2199
+
+				53
+					7071f05dad4f001f1be2c3e05bea2199
+
+				54
+
+				55
+
+				56
+					40f34d18a34f001f1be2c3e05bea2199
+					e0931156a74f001f1be2c3e05bea2199
+
+				57
+					a09f69876550001f19d0a745cb68a2e0
+
+				58
+					90cbb188ab4f001f1be2c3e05bea2199
+
+				59
+
+				5a
+
+				5b
+					104ab557ad4f001f1be2c3e05bea2199
+
+				5c
+
+				5d
+					901986a8aa4f001f1be2c3e05bea2199
+
+				5e
+					1018e364a44f001f1be2c3e05bea2199
+
+				5f
+
+				6
+					9069d03cae4f001f1be2c3e05bea2199
+
+				60
+					80bfa086a34f001f1be2c3e05bea2199
+
+				61
+					b000e41ca44f001f1be2c3e05bea2199
+					b0cdc3096950001f19d0a745cb68a2e0
+
+				62
+					50fcff10a34f001f1be2c3e05bea2199
+					a0de3016ae4f001f1be2c3e05bea2199
+					b04145dca14f001f1be2c3e05bea2199
+
+				63
+
+				64
+					50443ecfa44f001f1be2c3e05bea2199
+					b05e37bda74f001f1be2c3e05bea2199
+
+				65
+					a037d907ac4f001f1be2c3e05bea2199
+
+				66
+					50fdc766a74f001f1be2c3e05bea2199
+
+				67
+					a0d48866ab4f001f1be2c3e05bea2199
+
+				68
+					50c4d78a6550001f19d0a745cb68a2e0
+					b0264102af4f001f1be2c3e05bea2199
+
+				69
+
+				6a
+
+				6b
+					a0be23c1a84f001f1be2c3e05bea2199
+
+				6c
+
+				6d
+					50c35702ac4f001f1be2c3e05bea2199
+					b0a0476b6550001f19d0a745cb68a2e0
+
+				6e
+					708203e16450001f19d0a745cb68a2e0
+					b0fcd04ea24f001f1be2c3e05bea2199
+
+				6f
+					f0e52898a54f001f1be2c3e05bea2199
+
+				7
+
+				70
+					f0662fe8aa4f001f1be2c3e05bea2199
+
+				71
+
+				72
+					30b8d45f6550001f19d0a745cb68a2e0
+					7016533fa64f001f1be2c3e05bea2199
+
+				73
+					00b8ddafab4f001f1be2c3e05bea2199
+					30aaccb8aa4f001f1be2c3e05bea2199
+					60ab2a04a84f001f1be2c3e05bea2199
+
+				74
+					00382bfea84f001f1be2c3e05bea2199
+
+				75
+					305e2159a24f001f1be2c3e05bea2199
+					30c811a1a54f001f1be2c3e05bea2199
+
+				76
+					b07011a8a84f001f1be2c3e05bea2199
+
+				77
+					100c665eac4f001f1be2c3e05bea2199
+
+				78
+
+				79
+
+				7a
+					706caf56a54f001f1be2c3e05bea2199
+
+				7b
+					705289bdab4f001f1be2c3e05bea2199
+					e016f57daf4f001f1be2c3e05bea2199
+
+				7c
+					604d579ca54f001f1be2c3e05bea2199
+
+				7d
+					10b7d48a6550001f19d0a745cb68a2e0
+					605711e4a34f001f1be2c3e05bea2199
+					b0376c876550001f19d0a745cb68a2e0
+					c0f349b6a64f001f1be2c3e05bea2199
+
+				7e
+
+				7f
+					408664dfa54f001f1be2c3e05bea2199
+
+				8
+					40ed59fe6550001f19d0a745cb68a2e0
+					50ef4075a64f001f1be2c3e05bea2199
+					d0d58e106550001f19d0a745cb68a2e0
+
+				80
+
+				81
+					200143ecaf4f001f1be2c3e05bea2199
+					801353b4ab4f001f1be2c3e05bea2199
+					80972480a34f001f1be2c3e05bea2199
+
+				82
+
+				83
+					3007e178ab4f001f1be2c3e05bea2199
+					7070b15faf4f001f1be2c3e05bea2199
+
+				84
+
+				85
+
+				86
+
+				87
+					40deb53e6550001f19d0a745cb68a2e0
+					70839052a74f001f1be2c3e05bea2199
+					b065a3d7a64f001f1be2c3e05bea2199
+
+				88
+					20228a02a54f001f1be2c3e05bea2199
+
+				89
+
+				8a
+
+				8b
+					90d01922a54f001f1be2c3e05bea2199
+
+				8c
+					90a63399a24f001f1be2c3e05bea2199
+
+				8d
+					40327df8a44f001f1be2c3e05bea2199
+
+				8e
+					103801d2a84f001f1be2c3e05bea2199
+
+				8f
+
+				9
+					20ce04caa74f001f1be2c3e05bea2199
+
+				90
+					40c222e2ad4f001f1be2c3e05bea2199
+					e07bf15ba74f001f1be2c3e05bea2199
+
+				91
+
+				92
+					4093d0e4a44f001f1be2c3e05bea2199
+					c041a3a5a64f001f1be2c3e05bea2199
+
+				93
+
+				94
+
+				95
+					f04f0693a44f001f1be2c3e05bea2199
+
+				96
+
+				97
+					f0a67d5aaf4f001f1be2c3e05bea2199
+
+				98
+					100a5f28a54f001f1be2c3e05bea2199
+					b00ef574a54f001f1be2c3e05bea2199
+					d05361c7a44f001f1be2c3e05bea2199
+
+				99
+					c00e54bea64f001f1be2c3e05bea2199
+
+				9a
+					c009f30ead4f001f1be2c3e05bea2199
+					f0cb8bb0a34f001f1be2c3e05bea2199
+
+				9b
+					d0d227a0a44f001f1be2c3e05bea2199
+
+				9c
+					30cf3f516550001f19d0a745cb68a2e0
+					d0fb5a73a74f001f1be2c3e05bea2199
+
+				9d
+					80d68d92a24f001f1be2c3e05bea2199
+					e0b8d569af4f001f1be2c3e05bea2199
+
+				9e
+					e01cb253a34f001f1be2c3e05bea2199
+
+				9f
+					1015b83aa74f001f1be2c3e05bea2199
+					f01af0f3a24f001f1be2c3e05bea2199
+
+				a
+
+				a0
+					e0d5de26a94f001f1be2c3e05bea2199
+
+				a1
+
+				a2
+					902ab4c7ab4f001f1be2c3e05bea2199
+
+				a3
+					807dbb77ac4f001f1be2c3e05bea2199
+
+				a4
+					508be743a94f001f1be2c3e05bea2199
+
+				a5
+
+				a6
+					002ddeda6450001f19d0a745cb68a2e0
+					401bac23a34f001f1be2c3e05bea2199
+					a0f11d4ea84f001f1be2c3e05bea2199
+
+				a7
+					6063c760a64f001f1be2c3e05bea2199
+
+				a8
+
+				a9
+					204dd21ba54f001f1be2c3e05bea2199
+					80ac7d33af4f001f1be2c3e05bea2199
+
+				aa
+					10fca139a54f001f1be2c3e05bea2199
+					f0ab8689a44f001f1be2c3e05bea2199
+
+				ab
+					103fe223a64f001f1be2c3e05bea2199
+
+				ac
+					107203396950001f19d0a745cb68a2e0
+					b06253e6a44f001f1be2c3e05bea2199
+					c02b33316950001f19d0a745cb68a2e0
+
+				ad
+					10827d43ad4f001f1be2c3e05bea2199
+					b0ec83e9a54f001f1be2c3e05bea2199
+
+				ae
+					7011fe2ea74f001f1be2c3e05bea2199
+
+				af
+					3065ae76aa4f001f1be2c3e05bea2199
+
+				b
+					505dadcd6350001f19d0a745cb68a2e0
+
+				b0
+
+				b1
+					40644479a84f001f1be2c3e05bea2199
+
+				b2
+					402259ada64f001f1be2c3e05bea2199
+
+				b3
+
+				b4
+
+				b5
+					90e254caaa4f001f1be2c3e05bea2199
+
+				b6
+					0039c27cab4f001f1be2c3e05bea2199
+					6012522aa34f001f1be2c3e05bea2199
+
+				b7
+
+				b8
+					30a215cca64f001f1be2c3e05bea2199
+
+				b9
+					d027b67faf4f001f1be2c3e05bea2199
+
+				ba
+
+				bb
+
+				bc
+					401ad2f66850001f19d0a745cb68a2e0
+
+				bd
+					1082b9366950001f19d0a745cb68a2e0
+
+				be
+					20559d46ac4f001f1be2c3e05bea2199
+					f0c4591ba94f001f1be2c3e05bea2199
+
+				bf
+					50c83626a44f001f1be2c3e05bea2199
+
+				c
+
+				c0
+
+				c1
+					60cd4ef2aa4f001f1be2c3e05bea2199
+
+				c2
+					30e2f3bba74f001f1be2c3e05bea2199
+					f093dd8aa54f001f1be2c3e05bea2199
+
+				c3
+					10041c21af4f001f1be2c3e05bea2199
+					7020d063af4f001f1be2c3e05bea2199
+
+				c4
+					50b0fb56a84f001f1be2c3e05bea2199
+					b0c2291aa44f001f1be2c3e05bea2199
+
+				c5
+					70b2b69eab4f001f1be2c3e05bea2199
+
+				c6
+					a0e893cea64f001f1be2c3e05bea2199
+
+				c7
+
+				c8
+					7083ab5caf4f001f1be2c3e05bea2199
+
+				c9
+					80af6b76ad4f001f1be2c3e05bea2199
+
+				ca
+					70d01fe96550001f19d0a745cb68a2e0
+
+				cb
+					500badd1ad4f001f1be2c3e05bea2199
+					900c414cae4f001f1be2c3e05bea2199
+
+				cc
+					a0e4a6b8a84f001f1be2c3e05bea2199
+
+				cd
+					107a86baa84f001f1be2c3e05bea2199
+
+				ce
+					d0f6b4cca34f001f1be2c3e05bea2199
+
+				cf
+					b07d2780a34f001f1be2c3e05bea2199
+
+				d
+					209f7f456750001f19d0a745cb68a2e0
+					20edc9e06a50001f19d0a745cb68a2e0
+
+				d0
+					40ada0d8ad4f001f1be2c3e05bea2199
+					808d2d15b04f001f1be2c3e05bea2199
+
+				d1
+					6099f96ba64f001f1be2c3e05bea2199
+
+				d2
+
+				d3
+
+				d4
+					30bb65c3af4f001f1be2c3e05bea2199
+					d0ded30ca34f001f1be2c3e05bea2199
+
+				d5
+					10af9d2cae4f001f1be2c3e05bea2199
+					608112b3a44f001f1be2c3e05bea2199
+
+				d6
+
+				d7
+
+				d8
+
+				d9
+					20868f8eaa4f001f1be2c3e05bea2199
+
+				da
+
+				db
+					9065024fa54f001f1be2c3e05bea2199
+
+				dc
+
+				dd
+					0089d48ba34f001f1be2c3e05bea2199
+
+				de
+					60de5e87ae4f001f1be2c3e05bea2199
+
+				df
+					30033077a84f001f1be2c3e05bea2199
+					503e5d206750001f19d0a745cb68a2e0
+					80385f5dae4f001f1be2c3e05bea2199
+					9061c466ac4f001f1be2c3e05bea2199
+					f0ef53e2a34f001f1be2c3e05bea2199
+
+				e
+					00d265f7a84f001f1be2c3e05bea2199
+
+				e0
+
+				e1
+
+				e2
+					20d49de0a64f001f1be2c3e05bea2199
+					80a6e167ae4f001f1be2c3e05bea2199
+					b04d1590a84f001f1be2c3e05bea2199
+
+				e3
+
+				e4
+
+				e5
+					308530b0a64f001f1be2c3e05bea2199
+
+				e6
+					20648639ad4f001f1be2c3e05bea2199
+					70ff0167af4f001f1be2c3e05bea2199
+
+				e7
+
+				e8
+					6093adb6ad4f001f1be2c3e05bea2199
+					60a45e8ea54f001f1be2c3e05bea2199
+					9028e352ad4f001f1be2c3e05bea2199
+					a0d618dda74f001f1be2c3e05bea2199
+
+				e9
+
+				ea
+
+				eb
+					3000e60da54f001f1be2c3e05bea2199
+					e055ba81a74f001f1be2c3e05bea2199
+
+				ec
+					a036ced1a74f001f1be2c3e05bea2199
+
+				ed
+					706492bbab4f001f1be2c3e05bea2199
+
+				ee
+					30d6e402ae4f001f1be2c3e05bea2199
+					e07d2370af4f001f1be2c3e05bea2199
+
+				ef
+
+				f
+					0004fea0a34f001f1be2c3e05bea2199
+					205888426750001f19d0a745cb68a2e0
+
+				f0
+					60c1c535a74f001f1be2c3e05bea2199
+
+				f1
+					0028724ba74f001f1be2c3e05bea2199
+
+				f2
+					700e99d2ac4f001f1be2c3e05bea2199
+
+				f3
+					60021cb56750001f19d0a745cb68a2e0
+
+				f4
+					1074a386a24f001f1be2c3e05bea2199
+
+				f5
+
+				f6
+
+				f7
+					70fa2159a24f001f1be2c3e05bea2199
+
+				f8
+
+				f9
+					30d42e10a44f001f1be2c3e05bea2199
+					9093ff2daf4f001f1be2c3e05bea2199
+					a00c2c6dab4f001f1be2c3e05bea2199
+
+				fa
+					10b7d995ab4f001f1be2c3e05bea2199
+					600f2269a64f001f1be2c3e05bea2199
+					9062548aac4f001f1be2c3e05bea2199
+
+				fb
+
+				fc
+					906efd5fa44f001f1be2c3e05bea2199
+
+				fd
+					50e49581af4f001f1be2c3e05bea2199
+
+				fe
+
+				ff
+					00389496ac4f001f1be2c3e05bea2199
+
+
+			.projects
+				.org.eclipse.egit.core.cmp
+					.location
+					.markers.snap
+					.syncinfo.snap
+
+				java-study
+					.indexes
+						properties.index
+
+					.location
+					.markers.snap
+					.syncinfo.snap
+					org.eclipse.egit.core
+						GitProjectData.properties
+
+					org.eclipse.jdt.apt.core
+
+					org.eclipse.jdt.core
+
+
+				Project15
+					.indexes
+						properties.index
+
+					.markers.snap
+					.syncinfo.snap
+					org.eclipse.egit.core
+						GitProjectData.properties
+
+					org.eclipse.jdt.apt.core
+
+					org.eclipse.jdt.core
+
+
+				ProjectMini
+					.indexes
+						af
+							history.index
+
+						e4
+							b9
+								history.index
+
+
+
+					.markers.snap
+					.syncinfo.snap
+					org.eclipse.jdt.apt.core
+
+					org.eclipse.jdt.core
+
+
+
+			.root
+				.indexes
+					history.version
+					properties.index
+					properties.version
+
+				.markers.snap
+				19.tree
+
+			.safetable
+				org.eclipse.core.resources
+
+			19.snap
+
+		org.eclipse.core.runtime
+			.settings
+				ccw.core.prefs
+				com.adobe.flexide.as.core.prefs
+				com.adobe.flexide.css.core.prefs
+				com.adobe.flexide.mxml.core.prefs
+				com.axmor.eclipse.typescript.editor.prefs
+				com.dubture.twig.ui.prefs
+				com.genuitec.eclipse.codetogether.ui.prefs
+				com.genuitec.eclipse.sqlexplorer.prefs
+				com.genuitec.eclipse.theming.ui.prefs
+				com.github.eclipsecolortheme.prefs
+				com.github.rustdt.ide.ui.prefs
+				com.google.eclipse.protobuf.Protobuf.prefs
+				com.googlecode.goclipse.ui.prefs
+				com.palantir.typescript.prefs
+				com.powerflasher.fdt.ui.prefs
+				com.puppetlabs.geppetto.module.dsl.Module.prefs
+				com.puppetlabs.geppetto.pp.dsl.PP.prefs
+				com.spket.js.prefs
+				com.spket.xml.prefs
+				com.wolfram.eclipse.MEET.prefs
+				de.walware.statet.base.ui.prefs
+				de.walware.statet.r.ui.prefs
+				eclihx.ui.prefs
+				jp.gr.java_conf.ussiy.app.propedit.prefs
+				jsonedit-core.prefs
+				net.sf.eclipsefp.haskell.ui.prefs
+				net.sourceforge.texlipse.prefs
+				net.vtst.ow.eclipse.less.Less.prefs
+				org.apache.ivyde.eclipse.prefs
+				org.cfeclipse.cfml.prefs
+				org.chromium.debug.ui.prefs
+				org.cloudsmith.geppetto.pp.dsl.PP.prefs
+				org.codehaus.groovy.eclipse.ui.prefs
+				org.dadacoalition.yedit.prefs
+				org.eclipse.angularjs.ui.prefs
+				org.eclipse.ant.ui.prefs
+				org.eclipse.cdt.dsf.ui.prefs
+				org.eclipse.cdt.make.ui.prefs
+				org.eclipse.cdt.ui.prefs
+				org.eclipse.core.resources.prefs
+				org.eclipse.datatools.sqltools.sqleditor.prefs
+				org.eclipse.debug.ui.prefs
+				org.eclipse.dltk.ruby.ui.prefs
+				org.eclipse.dltk.tcl.ui.prefs
+				org.eclipse.e4.CSS.prefs
+				org.eclipse.e4.ui.css.swt.theme.prefs
+				org.eclipse.egit.core.prefs
+				org.eclipse.egit.ui.prefs
+				org.eclipse.epp.mpc.ui.prefs
+				org.eclipse.jdt.core.prefs
+				org.eclipse.jdt.debug.ui.prefs
+				org.eclipse.jdt.junit.prefs
+				org.eclipse.jdt.launching.prefs
+				org.eclipse.jdt.ui.prefs
+				org.eclipse.jsch.core.prefs
+				org.eclipse.jst.jsp.ui.prefs
+				org.eclipse.m2e.discovery.prefs
+				org.eclipse.mylyn.context.core.prefs
+				org.eclipse.mylyn.java.ui.prefs
+				org.eclipse.mylyn.monitor.ui.prefs
+				org.eclipse.mylyn.tasks.ui.prefs
+				org.eclipse.mylyn.wikitext.ui.prefs
+				org.eclipse.pde.ui.prefs
+				org.eclipse.php.ui.prefs
+				org.eclipse.team.cvs.ui.prefs
+				org.eclipse.tm.terminal.control.prefs
+				org.eclipse.tm4e.ui.prefs
+				org.eclipse.ui.browser.prefs
+				org.eclipse.ui.editors.prefs
+				org.eclipse.ui.genericeditor.prefs
+				org.eclipse.ui.ide.prefs
+				org.eclipse.ui.prefs
+				org.eclipse.ui.workbench.prefs
+				org.eclipse.urischeme.prefs
+				org.eclipse.wst.css.ui.prefs
+				org.eclipse.wst.dtd.ui.prefs
+				org.eclipse.wst.html.ui.prefs
+				org.eclipse.wst.jsdt.ui.prefs
+				org.eclipse.wst.xml.ui.prefs
+				org.eclipse.wst.xsl.ui.prefs
+				org.eclipse.xtend.core.Xtend.prefs
+				org.epic.perleditor.prefs
+				org.erlide.ui.prefs
+				org.jboss.ide.eclipse.freemarker.prefs
+				org.nodeclipse.enide.editors.gradle.prefs
+				org.nodeclipse.enide.editors.jade.prefs
+				org.python.pydev.prefs
+				org.scala-ide.play2.prefs
+				org.scala-ide.sdt.core.prefs
+				org.sourceforge.jsonedit-core.prefs
+				org.sweetlemonade.eclipse.json.prefs
+				winterwell.markdown.prefs
+
+
+		org.eclipse.debug.core
+			.launches
+				Ex05.launch
+				Ex1 (1).launch
+				Ex1 (2).launch
+				Ex1 (3).launch
+				Ex1 (4).launch
+				Ex1 (5).launch
+				Ex1 (6).launch
+				Ex1 (7).launch
+				Ex1.launch
+				Ex10.launch
+				Ex12.launch
+				Ex13.launch
+				Ex2 (1).launch
+				Ex2 (2).launch
+				Ex2 (3).launch
+				Ex2 (4).launch
+				Ex2 (5).launch
+				Ex2 (6).launch
+				Ex2 (7).launch
+				Ex2.launch
+				Ex3 (1).launch
+				Ex3 (2).launch
+				Ex3 (3).launch
+				Ex3 (4).launch
+				Ex3 (5).launch
+				Ex3 (6).launch
+				Ex3 (7).launch
+				Ex3 (8).launch
+				Ex3.launch
+				Ex4 (1).launch
+				Ex4 (2).launch
+				Ex4 (3).launch
+				Ex4.launch
+				Ex5 (1).launch
+				Ex5 (2).launch
+				Ex5.launch
+				Ex6 (1).launch
+				Ex6.launch
+				Ex7 (1).launch
+				Ex7.launch
+				Ex8.launch
+				Ex9.launch
+				Mine.launch
+				Quiz1 (1).launch
+				Quiz1 (2).launch
+				Quiz1 (3).launch
+				Quiz1 (4).launch
+				Quiz1 (5).launch
+				Quiz1 (6).launch
+				Quiz1 (7).launch
+				Quiz1 (8).launch
+				Quiz1.launch
+				Quiz10.launch
+				Quiz2 (1).launch
+				Quiz2 (10).launch
+				Quiz2 (2).launch
+				Quiz2 (3).launch
+				Quiz2 (4).launch
+				Quiz2 (5).launch
+				Quiz2 (6).launch
+				Quiz2 (7).launch
+				Quiz2 (8).launch
+				Quiz2 (9).launch
+				Quiz2.launch
+				Quiz3 (1).launch
+				Quiz3 (2).launch
+				Quiz3 (3).launch
+				Quiz3 (4).launch
+				Quiz3 (5).launch
+				Quiz3 (6).launch
+				Quiz3 (7).launch
+				Quiz3.launch
+				Quiz4 (1).launch
+				Quiz4 (2).launch
+				Quiz4 (3).launch
+				Quiz4 (4).launch
+				Quiz4 (5).launch
+				Quiz4 (6).launch
+				Quiz4.launch
+				Quiz5 (1).launch
+				Quiz5 (2).launch
+				Quiz5 (3).launch
+				Quiz5 (4).launch
+				Quiz5 (5).launch
+				Quiz5.launch
+				Quiz6 (1).launch
+				Quiz6 (2).launch
+				Quiz6 (3).launch
+				Quiz6.launch
+				Quiz7 (1).launch
+				Quiz7 (2).launch
+				Quiz7.launch
+				Quiz8 (1).launch
+				Quiz8 (2).launch
+				Quiz8.launch
+				Quiz9.launch
+
+
+		org.eclipse.debug.ui
+			dialog_settings.xml
+			launchConfigurationHistory.xml
+
+		org.eclipse.e4.workbench
+			workbench.xmi
+
+		org.eclipse.eclemma.core
+			.execdata
+
+
+		org.eclipse.egit.core
+			.org.eclipse.egit.core.cmp
+				.project
+				.settings
+					org.eclipse.core.resources.prefs
+
+
+
+		org.eclipse.egit.ui
+			dialog_settings.xml
+
+		org.eclipse.emf.common.ui
+
+		org.eclipse.epp.mpc.ui
+			dialog_settings.xml
+
+		org.eclipse.equinox.p2.ui
+			dialog_settings.xml
+
+		org.eclipse.jdt.core
+			1215256235.index
+			1865797976.index
+			2961382470.index
+			3007539926.index
+			3413725848.index
+			assumedExternalFilesCache
+			externalFilesCache
+			externalLibsTimeStamps
+			indexNamesMap.txt
+			javaLikeNames.txt
+			nonChainingJarsCache
+			savedIndexNames.txt
+			variablesAndContainers.dat
+
+		org.eclipse.jdt.launching
+			.install.xml
+			libraryInfos.xml
+
+		org.eclipse.jdt.ui
+			dialog_settings.xml
+			jdt-images
+				0.png
+				1.png
+				2.png
+				3.png
+				4.png
+				5.png
+
+			OpenTypeHistory.xml
+			QualifiedTypeNameHistory.xml
+
+		org.eclipse.ltk.core.refactoring
+			.refactorings
+				.workspace
+					2024
+						7
+							29
+								refactorings.history
+								refactorings.index
+
+							31
+								refactorings.history
+								refactorings.index
+
+
+						8
+							31
+								refactorings.history
+								refactorings.index
+
+
+
+
+				java-study
+					2024
+						7
+							31
+								refactorings.history
+								refactorings.index
+
+
+
+
+				Project12
+					2024
+						7
+							30
+								refactorings.history
+								refactorings.index
+
+
+
+
+				Project14
+					2024
+						7
+							31
+								refactorings.history
+								refactorings.index
+
+
+
+
+				Project15
+					2024
+						7
+							31
+								refactorings.history
+								refactorings.index
+
+
+
+
+				최지환
+					2024
+						8
+							31
+								refactorings.history
+								refactorings.index
+
+
+
+
+
+
+		org.eclipse.ltk.ui.refactoring
+			dialog_settings.xml
+
+		org.eclipse.m2e.core
+			workspaceState.ser
+
+		org.eclipse.m2e.jdt
+
+		org.eclipse.m2e.logback
+			0.log
+			logback.2.6.0.20240217-1525.xml
+			logback.2.6.1.20240411-1122.xml
+
+		org.eclipse.mylyn.context.core
+			contexts
+
+
+		org.eclipse.mylyn.github.ui
+			avatars.ser
+
+		org.eclipse.mylyn.tasks.ui
+
+		org.eclipse.oomph.setup
+			workspace.setup
+
+		org.eclipse.oomph.setup.ui
+
+		org.eclipse.team.ui
+			dialog_settings.xml
+			syncParticipants.xml
+
+		org.eclipse.tips.ide
+			dialog_settings.xml
+
+		org.eclipse.tm.terminal.view.ui
+			.executables
+				data.properties
+
+
+		org.eclipse.ui.editors
+			dialog_settings.xml
+
+		org.eclipse.ui.ide
+			dialog_settings.xml
+
+		org.eclipse.ui.intro
+			introstate
+
+		org.eclipse.ui.workbench
+			dialog_settings.xml
+			workingsets.xml
+
+		org.eclipse.ui.workbench.texteditor
+			dialog_settings.xml
+
+		org.eclipse.userstorage.oauth
+
+
+	defender.check
+	version.ini
+
+newFile.txt
+pdf
+	10장_인터페이스.pdf
+	11장_기본클래스.pdf
+	12장_컬렉션프레임워크.pdf
+	13장_내부클래스,람다식,스트림.pdf
+	14장_예외처리.pdf
+	15장_자바입출력.pdf
+	1장_GIT시작하기.pdf
+	1장_자바시작하기.pdf
+	2장_변수와자료형.pdf
+	3장_연산자.pdf
+	4장_제어문.pdf
+	5장_클래스와객체1.pdf
+	6장_클래스와객체2.pdf
+	7장_배열.pdf
+	8장_상속과다형성.pdf
+	9장_추상클래스.pdf
+	미니 프로젝트.pdf
+
+Project1
+	.classpath
+	.git
+		branches
+
+		config
+		FETCH_HEAD
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					master
+
+
+
+		objects
+			info
+
+			pack
+				pack-928e9a3a7fc2dc34d2d9061d805e1b7f8ee2ce46.idx
+				pack-928e9a3a7fc2dc34d2d9061d805e1b7f8ee2ce46.pack
+
+
+		refs
+			heads
+				master
+
+			remotes
+				origin
+					master
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+
+	src
+		hello
+			HelloJava.class
+			HelloJava.java
+
+
+
+Project10
+	.classpath
+	.git
+		branches
+
+		COMMIT_EDITMSG
+		config
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					master
+
+				remotes
+					origin
+						master
+
+
+
+
+		objects
+			00
+				77408468ce5648914e5ba535e6f64ea7ea057f
+				c03598c85fe516e1df1d3a621f40c8d685ce6a
+
+			11
+				6edac545137cc23fd11676eff9aa0c5d157865
+
+			12
+				7ee1f776d7a2a303d014190aa9eef78d0979e2
+
+			1a
+				eb8b94d136b3f004f984f77e2f25016a31b2b9
+
+			1e
+				06ac2ac0bc6bf7a88c215a58e7afece720e202
+
+			3b
+				1af52d0d76b6f05734d85c0b3f2ea41b11d54e
+
+			3c
+				f80dcf2faa6fa87e92829d9077432874052c0e
+
+			47
+				0b558954094e55b2fe2cde88ea9b0065340a2d
+
+			56
+				d2d0ad36c5ea2b251ce9bdc06df9ec03e27870
+
+			57
+				bca72546725f93b294323a769debf40b67ff61
+
+			6e
+				d9cdca952e37ed23486400dc265259cead4ddd
+
+			7a
+				a24001324cd551d27073ce6963da1dff23eae0
+
+			7f
+				4e298d45d59d55c1ee34031b9a7933a1619b6c
+
+			88
+				a7bbc0891293dbc118c727975e6f7a82b8ac98
+
+			8b
+				5ed45fbcd97c585af7982dadc5576aab2b381e
+
+			8c
+				4968551ffd335b51e9ecc496c2202417359ef5
+				9943d50cc1ad01b880ef4e85e8724e6cc19fd2
+
+			99
+				f26c0203a7844de00dbfc56e6a35d8ed3c022c
+
+			9e
+				b48edca985415c2154fa69831a5609ceb94c3e
+
+			a2
+				bab810ff9737341dd9acba8230a44f101a51f5
+
+			a7
+				a0f94b04a5ed53b2e34ca43429eb781b12f52d
+
+			aa
+				825c2cb88486826eee320922185bcdba5f0f6d
+
+			ae
+				3c1726048cd06b9a143e0376ed46dd9b9a8d53
+
+			bc
+				91fd3cafa36c3041289b29325f3985c8510d06
+
+			c5
+				b2bf7a0133181660ab97584fd2caa7c7a31b9f
+
+			cb
+				e803495eb44401975e74d619df7d1b88f0520b
+
+			e1
+				0850ff8d13e8d6a239bebf62fc368af249b022
+
+			e6
+				d4826e95ec415cf33b9f5f7cba3d4cea3f3df3
+
+			e9
+				aa98e98ba5bddf494caf0c85ccaf1fc53af9fd
+
+			info
+
+			pack
+
+
+		refs
+			heads
+				master
+
+			remotes
+				origin
+					master
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+		main
+			Calc.class
+			Calculator.class
+			DBDriver.class
+			Ex1.class
+			Ex2.class
+			Ex3.class
+			Ex4.class
+			Ex5.class
+			LeastJob.class
+			MySqlBDriver.class
+			NewCalculator.class
+			OracleDBDriver.class
+			PostgresDBDriver.class
+			PriorityAllocation.class
+			Quiz1.class
+			Quiz2.class
+			RoundRobin.class
+			Scheduler.class
+
+		module-info.class
+
+	src
+		main
+			Calc.java
+			DBDriver.java
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			Ex5.java
+			Quiz1.java
+			Quiz2.java
+			Scheduler.java
+
+		module-info.java
+
+
+Project11
+	.classpath
+	.git
+		branches
+
+		COMMIT_EDITMSG
+		config
+		FETCH_HEAD
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+				remotes
+					origin
+						main
+
+
+
+
+		objects
+			0e
+				dd7812dccd48faa3715711728b2d602f75a111
+
+			10
+				0834c1b20239cb07d1b50aaf108b527279ba52
+
+			19
+				a939421e703b3ef703c8a8184f183d40f1b068
+				cc7bc4a7dd9311189c10fd5dead5daceb9c75e
+
+			1b
+				8bad899cba1bcdb7598080ee199e8b68090702
+
+			1f
+				798d45e83a9c87b40ec1dd04230776d31f9481
+
+			27
+				9d0853933c5a0bdee51ec6c0b41ddb91ce928c
+
+			28
+				ffb61efd13ba379d3d786e91d553681bb3f727
+
+			2b
+				36070ca4a28d41daf549e79f8c893f631745c3
+
+			2c
+				b459676d253acd30189bbe54f8b4f0077a0a82
+
+			2e
+				fc26cd642b7ad6730245854c5393f5e4f3ca18
+
+			33
+				32929a826ed55720c2af7d8935567e7e079a1d
+
+			34
+				f4f35b2cd25c43d1508cc1a6c8e1b5be09a9fa
+
+			35
+				3289ccaddd8c7d2ceb3731bb3d3eadb93faa9f
+
+			3e
+				ea155f64b1b8c356a87cccf461dcfb0ce3a667
+
+			44
+				4112df114afa8ae63af77e72f3fd0debcddee6
+
+			45
+				2f962f8209567c6ea3ce7d0e36d52fbab4bd57
+
+			46
+				612cb5436c41ead8747abcc50c7add70847577
+
+			57
+				bca72546725f93b294323a769debf40b67ff61
+
+			66
+				69fe1bceb3be5dfe57bbf5740185e678416f9b
+
+			6c
+				6a507f231293e15b4bea24bf42796a9cefb675
+
+			6e
+				9092b8e584b99b1774ccdbe03a0e8e40a62e32
+
+			72
+				2d906bf8b9104e9d7cdb25cbe2ec07f761df8c
+				814df088818e50ac1abbe92bc2c9ef94572b00
+				df6db550bcd2ca96a1e3ad7db73e679a4f3a38
+
+			80
+				0916f6d87835b87fed6cb6045970eebdc38de3
+
+			86
+				6a1126a88b5f58dd1459c9dea0908908d2b2a8
+
+			8c
+				9943d50cc1ad01b880ef4e85e8724e6cc19fd2
+
+			8e
+				50b2003d1a7549c139808f41a1a586ac22350c
+
+			8f
+				05e933115387dd5757089d170b3ed91c10ccd6
+				7c063c5329c09965833ba7dfe617290844e1cd
+
+			94
+				6c231aa2513aa8fe0b20fa396591734b50fac9
+
+			96
+				d7534edac88c543c70c2fcdc6b95ea7bade912
+
+			99
+				f26c0203a7844de00dbfc56e6a35d8ed3c022c
+
+			ab
+				602e784f15694e5acc6f169c3433bd6d496691
+
+			ae
+				3c1726048cd06b9a143e0376ed46dd9b9a8d53
+
+			b1
+				e71530d74b4afb99d28b82bb9d42e5166d1eb8
+
+			bb
+				557dfffce1e8e1a37f7f2990c36da381463b65
+
+			bc
+				6ad6c884c019900a4ddf04dfdab6d88db09909
+				bd8a2bc04dcdab9355be1bea0487a4ce0b7d04
+
+			c0
+				08b40d8c2394990f23fd13316fb314046515e4
+
+			c2
+				137b994f5020bc2639b998d101758645b703d9
+				fb98add6c1253aba6f21ea10d154ab7fdf14dd
+
+			c5
+				b2bf7a0133181660ab97584fd2caa7c7a31b9f
+
+			c7
+				417b385dbb75cf2b3351d1c776df0b6f721e8a
+
+			c9
+				53257c38c056aa5eddb5f3cf71639b9dbe4a7b
+
+			cc
+				0982b499992b4bace2f4de832dae4973f432e1
+
+			de
+				561cd5d83db3ac417b9e4ba0385aec8c1e2b15
+				faaf559e1e8127648732ad5baab1b4661afaec
+
+			e0
+				ad0dfbcaf320256144a81466d6c12a53290fa6
+
+			ea
+				ac6603ae69a5b5abae8e6db459fcfc7360d073
+
+			info
+
+			pack
+				pack-ec3aeae6a668b37a180f39584bbdc13ba999d95b.idx
+				pack-ec3aeae6a668b37a180f39584bbdc13ba999d95b.pack
+
+
+		refs
+			heads
+				main
+
+			remotes
+				origin
+					main
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+		object
+			A.class
+			Book.class
+			Dog.class
+			Ex1.class
+			Ex2.class
+			Ex3.class
+			Ex4.class
+			Ex5.class
+			MyDate.class
+			Quiz1.class
+			Quiz2.class
+			Quiz3.class
+			Student.class
+
+		string
+			Ex1.class
+			Ex2.class
+			Ex3.class
+			Ex4.class
+			quiz
+				Quiz1.class
+				Quiz2.class
+				Quiz3.class
+				Quiz4.class
+				Quiz5.class
+				Quiz6.class
+
+
+		wrapper
+			Ex1.class
+			Ex2.class
+			Ex3.class
+			Ex4.class
+			quiz
+				Quiz1.class
+				Quiz2.class
+				Quiz3.class
+				Quiz4.class
+
+
+
+	src
+		object
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			Ex5.java
+			Quiz1.java
+			Quiz2.java
+			Quiz3.java
+
+		string
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			quiz
+				Quiz1.java
+				Quiz2.java
+				Quiz3.java
+				Quiz4.java
+				Quiz5.java
+				Quiz6.java
+
+
+		wrapper
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			quiz
+				Quiz1.java
+				Quiz2.java
+				Quiz3.java
+				Quiz4.java
+
+
+
+
+Project12
+	.classpath
+	.git
+		branches
+
+		COMMIT_EDITMSG
+		config
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+				remotes
+					origin
+						main
+
+
+
+
+		objects
+			00
+				3809b63607239ed5c4c1e96e5c39e72ab74d70
+
+			03
+				ab995f6428404394ef2427e5c1686ab69f455e
+				cb2ac19d12e951b5895c283faeb37b2f928ec8
+
+			05
+				b55571cd62ce5da27160d85200c44bc2dd8ae2
+
+			18
+				6def6aceb545687b265bb96edcfe81ecf11206
+				ec2d3eda33241729849b389eb21444c0c8baf9
+
+			1d
+				fae3e3f3ebd3280005257f3d421038c55efeca
+
+			1e
+				4f684646f6b045dbb4935d0ebeeb6da2891786
+
+			1f
+				8eb80c8b193784525f7ad741fdda88475da120
+
+			2c
+				489984347c837a7e731188197c1991bc111eee
+
+			34
+				874cf91dfd2e18e0bb0f0be92f6c3a55ebdb45
+
+			49
+				788c45817a597a3df097232ebbdc1eb331245f
+
+			4c
+				5b0958b2bda5b8be50858b0171f0769054f64d
+
+			50
+				47faeabe542788acfc2c750abecd47a76d54ee
+
+			56
+				d756042b11fd1e495bcfde2a508a335ba9a4f2
+
+			57
+				bca72546725f93b294323a769debf40b67ff61
+
+			5f
+				a8ee6bba7d598a914d991e42aa11ddea4e97cc
+
+			6a
+				94c62ddaa2275411ab5a38fcc6f4a68c0c6969
+
+			70
+				40e9a45abafbb213e19c156240d21008b1ae95
+
+			75
+				18a75d94d9a5fea69287f5dcbb1dbfbd732dd1
+				63c99e8c77044083042c3741ad36a73c431815
+
+			80
+				a4a516355446d5e9cd77c862c871dd06460ba3
+
+			83
+				3308f068106a8f0549880e0d95f1afd4ac7405
+
+			8c
+				9943d50cc1ad01b880ef4e85e8724e6cc19fd2
+
+			8f
+				d2adf0fcf1f9f40614453511e656188c7d71c4
+
+			96
+				550e6bbbcf44551d7f2e28b9f5e34b1d87ae78
+
+			97
+				23af679920cf939c516a73b363e847bae99db4
+
+			98
+				af4892ab3fd25bed4778593878466035eb2307
+
+			99
+				ce09c2759b03eb32072a22fe4d2d2b6352df33
+				f26c0203a7844de00dbfc56e6a35d8ed3c022c
+
+			a3
+				8ace7d9d03939dbd65b15091d1cf928cf2c38d
+
+			a6
+				02650af28669b76194dd4c5243b675778c3e2e
+
+			ae
+				3c1726048cd06b9a143e0376ed46dd9b9a8d53
+
+			b4
+				ddfc8fd2c2fde4bfa69c99e7adcd4d8c047973
+
+			b8
+				534d60643b9751cdbbc40b885de07aa3b62b5f
+
+			bc
+				f76318a18ecca12189dd1696b9b857df9f902b
+
+			c5
+				b2bf7a0133181660ab97584fd2caa7c7a31b9f
+
+			cf
+				1e2e3cec1dc271ef8ac8c0b19ac418a6aa60a5
+
+			e4
+				333374d9e164ebff44b426d717d927f922123d
+
+			e5
+				43550c276c050e46693bfaf858e7539fec334d
+
+			f5
+				c3653fcfbf82c5ac9b56bde74ae1233956eda3
+
+			f6
+				eaffbd5df8179a03431d759a1557d7fd985765
+
+			info
+
+			pack
+
+
+		refs
+			heads
+				main
+
+			remotes
+				origin
+					main
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+		collection
+			Book.class
+			Ex1.class
+			Ex2.class
+			Ex3.class
+			Member.class
+			MemberArrayList.class
+			Quiz1.class
+			Quiz2.class
+			Quiz3.class
+			Quiz4.class
+			Quiz5.class
+
+		generic
+			Ex2.class
+			Ex3.class
+			Ex4.class
+			Plastic.class
+			Powder.class
+			ThreeDPrinter.class
+			ThreeDPrinter1.class
+			ThreeDPrinter2.class
+			ThreeDPrinter3.class
+
+		map
+			Ex1.class
+			Ex2.class
+			Member.class
+			MemberHashMap.class
+			Quiz1.class
+			Quiz2.class
+			Quiz3.class
+			Quiz4.class
+			Quiz5.class
+			Student.class
+
+
+	src
+		collection
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Quiz1.java
+			Quiz2.java
+			Quiz3.java
+			Quiz4.java
+			Quiz5.java
+
+		generic
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+
+		map
+			Ex1.java
+			Ex2.java
+			Quiz1.java
+			Quiz2.java
+			Quiz3.java
+			Quiz4.java
+			Quiz5.java
+
+
+
+Project13
+	.classpath
+	.git
+		branches
+
+		COMMIT_EDITMSG
+		config
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+				remotes
+					origin
+						main
+
+
+
+
+		objects
+			03
+				c2503b26df7375dcb8d2e350e38dc4c175869a
+
+			0a
+				5f10cd713ec32e695ac3005bf8ca50361f63be
+
+			0e
+				6976d0cc420e1d36ac8878135b3f1e8a267dd2
+				961aec45f051615e323500034339dbe2a2491d
+
+			25
+				ae9bd3d7075e3ad7ccdd87221ff12d030260b2
+
+			35
+				2f38ee2a761bb50518d6701e392cb1b492fd7b
+
+			37
+				5cff6fda3631466d20dc70095f8571756b8226
+
+			39
+				f3d98589584090eeec765a94e13c49731b1004
+
+			49
+				5aa247390ee085a06de0cd568ff4500d14f297
+
+			57
+				265002df01b26d85d88290bc2e21c4933bfd5c
+				bca72546725f93b294323a769debf40b67ff61
+
+			5e
+				33423b80f1948f746f59d4a3d1144e8507c2db
+
+			61
+				fbb604f2791fbfc9d1af71e52580a6cc60bbec
+
+			6f
+				055f8dab9a9463eec1a604d24a4afd2105b9f6
+				b9e46d1c9bfa3a98e8e8ec45e6e61205783ed6
+
+			7b
+				6c351e077ee86960ab92a65532d7bac32e852e
+
+			82
+				85f0d76344a5e9230ee3986584aef93f75542d
+
+			83
+				b1dcd72c25ab72fa77ef08d40cb4a9d8e7c77a
+
+			85
+				49b3e829c3353059b6cb486a92f60ca8482a8d
+
+			86
+				40c157ab10171fdf4145cc7bc106318b493be8
+
+			8b
+				431d867be819d160ac89b88742e5ebabc67e75
+
+			8c
+				9943d50cc1ad01b880ef4e85e8724e6cc19fd2
+
+			99
+				f26c0203a7844de00dbfc56e6a35d8ed3c022c
+
+			9c
+				66764285459797d3ada69bb748effd24cfb7a5
+
+			a2
+				2f0481d379627725783e06771e5cb896f665e8
+
+			a4
+				6dd1de38d0b06c3bc9cff63edea21a7f3c7aaa
+
+			a8
+				45c2b0cbb87d17dcc3562d87368ef7efb5adf0
+
+			ae
+				3c1726048cd06b9a143e0376ed46dd9b9a8d53
+
+			af
+				ae74273d0c2f32a259053f3be7d8539fe1c17d
+
+			b8
+				092ea2165164ed6c26e6e2a789e1b09e1ce003
+
+			be
+				9ee95f109f05cde832889a3e921bafd4409b1b
+
+			c4
+				209ce42c9406298712196f2f262eab3e851744
+				605e268121a4ffa3ef6a136a8d259267fa508c
+
+			c5
+				b2bf7a0133181660ab97584fd2caa7c7a31b9f
+
+			c8
+				6f33d5b9bdb9dd4a5998b7d9be7a7ea1d00828
+
+			c9
+				2e69fec0bd1d5c8ed768dd1a95dad3fec7200d
+				7fd344dc4fda90c4b0eeee62a8d37c7641d552
+
+			cd
+				14b8782688ae2ed8877bf06c7fe6957c698d89
+
+			d4
+				30f945cd14fc572963cd031cb9b473ab909191
+
+			d7
+				31fe74ad12d65038ec3e0d8f5abe410c494a09
+
+			d8
+				fec6eec3948f20ba554115f6c8a6f7fd5fa46e
+
+			da
+				dd9057c846576584221cdd28571ca71b45d152
+
+			e7
+				761c200a373b97c02f26a9481510d960d47ef6
+
+			ec
+				024c86b44673ab4b1b15c93437b0d6c6854f71
+
+			fb
+				204bba30a8b31c6d2f0295a10aad10921f5777
+
+			info
+
+			pack
+
+
+		refs
+			heads
+				main
+
+			remotes
+				origin
+					main
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+		innerclass
+			A.class
+			B.class
+			C$D.class
+			C.class
+			EventHandler.class
+			Ex3$1.class
+			Ex3.class
+			MyFocusListener.class
+			MyKeyListener.class
+			Outer$InClass.class
+			Outer$InStaticClass.class
+			Outer.class
+			Quiz1$1.class
+			Quiz1.class
+			Quiz2$1.class
+			Quiz2.class
+
+		lambda
+			Calc.class
+			Ex1.class
+			Ex2$1.class
+			Ex2.class
+			Ex3$1.class
+			Ex3.class
+			Hello.class
+			HelloImpl.class
+			MyNumber.class
+			MyNumberImpl.class
+			Quiz1$1.class
+			Quiz1.class
+			Quiz2$1.class
+			Quiz2.class
+			Quiz3$1.class
+			Quiz3.class
+			StringConcat.class
+			StringConcatImpl.class
+			StringConverter.class
+			StringConverterImpl.class
+
+		stream
+			Book.class
+			Customer.class
+			Ex1.class
+			Ex2.class
+			Ex3.class
+			Ex4.class
+			Order.class
+			Quiz1.class
+			Quiz2.class
+			Quiz3.class
+			Quiz4.class
+
+
+	src
+		innerclass
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Quiz1.java
+			Quiz2.java
+
+		lambda
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Quiz1.java
+			Quiz2.java
+			Quiz3.java
+
+		stream
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			Quiz1.java
+			Quiz2.java
+			Quiz3.java
+			Quiz4.java
+
+
+
+Project14
+	.classpath
+	.git
+		branches
+
+		COMMIT_EDITMSG
+		config
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+				remotes
+					origin
+						main
+
+
+
+
+		objects
+			04
+				79219d35de8c9a2f3d1c3d0292d7f821a6b173
+
+			05
+				7a966d28e75239d0f9564c55e1e16e61f47f52
+
+			0b
+				94992e60c6dac512de97256647dae5fd41e070
+
+			1b
+				d012ac50cf1cd6c79f7c93652c59680972e386
+
+			38
+				ea1e5dcd6ac73c831bc4ea7a65c56cc477748c
+
+			45
+				14dac200ac46c46404a28d5e728076e1218e02
+
+			47
+				e3e1c02c7846fb479847fe75b1f35c2bcd50e0
+
+			48
+				190e82ee89d579d04958f947493fd2b807f29d
+
+			52
+				2afc2d995020685667cc4c56fea8c5a4345a83
+
+			53
+				5728fd7918f288ad87035001f551ae91727513
+
+			57
+				bca72546725f93b294323a769debf40b67ff61
+
+			58
+				7b39ff0ffdc8dbaedd9d9def662dbb39de9b56
+
+			61
+				65392c1831c751f6e4702dec658962b942b5ab
+
+			66
+				d3621b478d462e1a153ee137ecbf301c1f768e
+
+			72
+				61afdf230d02236f6477c9224fdaed9c937e48
+
+			8c
+				9943d50cc1ad01b880ef4e85e8724e6cc19fd2
+
+			8e
+				6486be0154e3bcf2631dd511f64ef5a0139006
+
+			91
+				9904ec9cd27cb3e9240ae568a282bf43f89b87
+
+			99
+				f26c0203a7844de00dbfc56e6a35d8ed3c022c
+
+			9d
+				710129e306b1bd69604e237b859becbc63e234
+
+			ae
+				3c1726048cd06b9a143e0376ed46dd9b9a8d53
+
+			b2
+				2a7260c6011f78dfa022eefab04451f76e9dfb
+
+			b4
+				43b277f111044777c460f7bd8d79d8e6c1fec1
+
+			bf
+				15999f2a05f5b8472c5fe7f6df3d0621af8f08
+
+			c5
+				b2bf7a0133181660ab97584fd2caa7c7a31b9f
+
+			d0
+				a933607f333dc2ec066f14ef3c2aa863513d73
+
+			d2
+				85a6364608cdcde10ab26682a33b3480db77bd
+
+			e2
+				3890d218b2ea71a2cf6b55637580edfebc503e
+
+			e6
+				9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+
+			f5
+				4261bc6843fee347a19c63ac4936e6152404fe
+
+			f9
+				82bfdee83a30f6678929df4ea9eea2da123f72
+
+			fe
+				551d13f8746b5a083808278e2eb429d8f8ed0e
+
+			info
+
+			pack
+
+
+		refs
+			heads
+				main
+
+			remotes
+				origin
+					main
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+		main
+			a.txt
+			Book.class
+			Ex1.class
+			Ex2.class
+			Ex3.class
+			Ex4.class
+			Ex5.class
+			Ex6.class
+			Ex7.class
+			Ex8.class
+			Quiz1.class
+			Quiz2.class
+			Quiz3.class
+			Quiz4.class
+			Quiz5.class
+			Quiz6.class
+			Quiz7.class
+
+
+	src
+		main
+			a.txt
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			Ex5.java
+			Ex6.java
+			Ex7.java
+			Ex8.java
+			Quiz1.java
+			Quiz2.java
+			Quiz3.java
+			Quiz4.java
+			Quiz5.java
+			Quiz6.java
+			Quiz7.java
+
+
+
+Project15
+	.classpath
+	.git
+		branches
+
+		COMMIT_EDITMSG
+		config
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+				remotes
+					origin
+						main
+
+
+
+
+		objects
+			09
+				b1ca425002c16e56a1f2e1c4b72684ff787d6d
+
+			16
+				f2961476fc8c4cecf3a7f78278549199431053
+
+			1f
+				ef2a457d01dd0a3a7e67d16c33a455f5b5f247
+
+			26
+				33cf8c1c3df57d89cc5fcf6bbbcf9cd81d2e5f
+
+			2a
+				a7cc48b67fa1540e296cf3f5cc1257cebac50d
+
+			2e
+				479d4929eca219868f024a8109af6bf4000635
+
+			33
+				e7e012d4ffc8fc3433268e0b8913d3b866f636
+
+			36
+				2f7593721a6df011a4f882a63b5e2d2f99de3b
+
+			43
+				67327d166ca8a0c701ff6923488f9d789d0cad
+				bddac5a0f165f23a41123eb6c9d98280a033f5
+
+			46
+				cb1a260db85844287e41a5f132d6f76ccef18c
+
+			48
+				b83b862ebc57bd3f7c34ed47262f4b402935af
+
+			49
+				06665c42a49f927995c3db6fc3531df8577c21
+
+			4c
+				c3e7f532ba27598c3c0370756914364a33ea0e
+
+			4f
+				7c4a0100b3f3c94466e6d631e736b9621bd460
+				cc1013f5b9d473166fabd09f82bd8bc7bf2cb1
+
+			57
+				bca72546725f93b294323a769debf40b67ff61
+
+			5a
+				9e59d0dc410bb242e9908846f5cd08bbb85ea2
+				bc0cbe36b9e1b8f97d78a55b75a982a8171e83
+
+			68
+				720c945d154f2490e966d3f808f3615e220101
+
+			7a
+				6b12aa32a90a7579a1eb5fe96a90b7d13d0256
+
+			88
+				4bfdf6934cb6a9082b6baf4bf5778d5c88a0b6
+
+			8a
+				f9598d5eb6b79e8547711c2933b54df6affe11
+
+			8c
+				99246c1dc85b16bea91a20861ca545937dc333
+				9943d50cc1ad01b880ef4e85e8724e6cc19fd2
+
+			90
+				135597b09fd519dc94ada7c99387715d5c9334
+
+			99
+				f26c0203a7844de00dbfc56e6a35d8ed3c022c
+
+			a2
+				59c64bcc0c525bfbf079712093b57fe4633914
+
+			a6
+				860d918dfcb4ddb154a7fef822619e7a26f05b
+
+			ae
+				3c1726048cd06b9a143e0376ed46dd9b9a8d53
+
+			b7
+				3f7bf41cd3d64117b0e4b55e4e1bd106b5b151
+
+			ba
+				460b3bd320c2c8e4b3c5a3c4d5f4bc114dee07
+
+			be
+				0bab40dd38ecd427d63bdffb3eebb0fe42d959
+
+			c5
+				b2bf7a0133181660ab97584fd2caa7c7a31b9f
+
+			c7
+				075cd9b4356ce497b4fd5c80e44871aa6f9ab2
+
+			cd
+				b1b727c989c2ced64c76650efdb8f5cd05a084
+
+			ce
+				facb47c470c9ade9cdf3196a5fc9bc89eec226
+
+			cf
+				6fe5c2f1fd1dd7ca484eb916803029fb5bd295
+
+			d4
+				769ef95f2498f4da775b72685a50bb3747d83a
+
+			d8
+				2bc97b01b367198b90afcdf1317310f36411f5
+
+			d9
+				015ec30491a59cb250475884d5e29adec2b376
+				92c5a5b737e2f974923f28a2a89ed3fca0356f
+
+			da
+				ecd224c58efced2b0c6f8c49f4899b24a4f262
+
+			e4
+				ee566f74ca26bc202f680853c5a32f208b7a3d
+
+			e6
+				9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+				d6f4c8aef08d4c9218ce52ec3d984bf6efffa6
+
+			f3
+				4c20d5e4f288378904f20e6f62c7d64be3f66e
+
+			info
+
+			pack
+
+
+		refs
+			heads
+				main
+
+			remotes
+				origin
+					main
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	a.txt
+	bin
+		main
+			Ex1.class
+			Ex10.class
+			Ex11.class
+			Ex12.class
+			Ex13.class
+			Ex2.class
+			Ex3.class
+			Ex4.class
+			Ex5.class
+			Ex6.class
+			Ex7.class
+			Ex8.class
+			Ex9.class
+			quiz
+				Quiz1.class
+				Quiz10.class
+				Quiz2.class
+				Quiz3.class
+				Quiz4.class
+				Quiz5.class
+				Quiz6.class
+				Quiz7.class
+				Quiz8.class
+				Quiz9.class
+
+
+		quiz5.txt
+
+	copy2.txt
+	input.txt
+	input3.txt
+	output.txt
+	quiz10.txt
+	quiz5.txt
+	quiz6.txt
+	quiz7.txt
+	quiz8.txt
+	quiz9.txt
+	reader.txt
+	src
+		main
+			Ex1.java
+			Ex10.java
+			Ex11.java
+			Ex12.java
+			Ex13.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			Ex5.java
+			Ex6.java
+			Ex7.java
+			Ex8.java
+			Ex9.java
+			quiz
+				Quiz1.java
+				Quiz10.java
+				Quiz2.java
+				Quiz3.java
+				Quiz4.java
+				Quiz5.java
+				Quiz6.java
+				Quiz7.java
+				Quiz8.java
+				Quiz9.java
+
+
+		quiz5.txt
+
+	writer.txt
+
+Project2
+	.classpath
+	.git
+		branches
+
+		config
+		FETCH_HEAD
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+
+
+		objects
+			info
+
+			pack
+				pack-01e011d5d335a828222f949179999697fe30f14e.idx
+				pack-01e011d5d335a828222f949179999697fe30f14e.pack
+
+
+		packed-refs
+		refs
+			heads
+				main
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+
+	src
+		main
+			Ex1.java
+			Ex10.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			Ex5.java
+			Ex6.java
+			Ex7.java
+			Ex8.java
+			Ex9.java
+
+		quiz
+			Quiz1.java
+			Quiz2.java
+			Quiz3.java
+			Quiz4.java
+			Quiz5.java
+			Quiz6.java
+			Quiz7.java
+			Quiz8.java
+
+
+
+Project3
+	.classpath
+	.git
+		branches
+
+		config
+		FETCH_HEAD
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+
+
+		objects
+			info
+
+			pack
+				pack-e128a67fca8cb9c34c6d94a1b1f264dbc292c280.idx
+				pack-e128a67fca8cb9c34c6d94a1b1f264dbc292c280.pack
+
+
+		refs
+			heads
+				main
+
+			remotes
+				origin
+					main
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+
+	src
+		main
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			Ex5.java
+			Ex6.java
+			Ex7.java
+			Ex8.java
+
+		quiz
+			Quiz1.java
+			Quiz10.java
+			Quiz2.java
+			Quiz3.java
+			Quiz4.java
+			Quiz5.java
+			Quiz6.java
+			Quiz7.java
+			Quiz8.java
+			Quiz9.java
+
+
+
+Project4
+	.classpath
+	.git
+		branches
+
+		config
+		FETCH_HEAD
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+
+
+		objects
+			info
+
+			pack
+				pack-4d53394fa536a8c1bab12734df74df85b98d1666.idx
+				pack-4d53394fa536a8c1bab12734df74df85b98d1666.pack
+
+
+		refs
+			heads
+				main
+
+			remotes
+				origin
+					main
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+
+	src
+		conditional
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			Ex5.java
+			Ex6.java
+			Ex7.java
+			quiz
+				Quiz1.java
+				Quiz2.java
+				Quiz3.java
+				Quiz4.java
+				Quiz5.java
+				Quiz6.java
+				Quiz7.java
+				Quiz8.java
+
+
+		loop
+			Ex1.java
+			Ex10.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			Ex5.java
+			Ex6.java
+			Ex7.java
+			Ex8.java
+			Ex9.java
+			quiz
+				Quiz1.java
+				Quiz10.java
+				Quiz2.java
+				Quiz3.java
+				Quiz4.java
+				Quiz5.java
+				Quiz6.java
+				Quiz7.java
+				Quiz8.java
+				Quiz9.java
+
+
+
+
+Project5
+	.classpath
+	.git
+		branches
+
+		config
+		FETCH_HEAD
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+
+
+		objects
+			info
+
+			pack
+				pack-a66eeb2e45fe461cbdd53b7179e1b55c7e395b20.idx
+				pack-a66eeb2e45fe461cbdd53b7179e1b55c7e395b20.pack
+
+
+		refs
+			heads
+				main
+
+			remotes
+				origin
+					main
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+
+	src
+		constructor
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			quiz
+				Quiz1.java
+				Quiz2.java
+
+
+		hiding
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Quiz1.java
+			Quiz2.java
+			Quiz3.java
+			test1
+				A.java
+				Test.java
+
+			test2
+				Test.java
+				Test2.java
+
+
+		instance
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			quiz
+				Quiz1.java
+				Quiz2.java
+				Quiz3.java
+
+			Student.java
+
+		method
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			quiz
+				Quiz1.java
+				Quiz2.java
+				Quiz3.java
+				Quiz4.java
+				Quiz5.java
+				Quiz6.java
+				Quiz7.java
+
+
+		object
+			A.java
+			Person.java
+			quiz
+				Board.java
+				Book.java
+				Car.java
+				Member.java
+				Movie.java
+
+			Student.java
+
+		reference
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			quiz
+				Quiz1.java
+				Quiz2.java
+
+
+
+
+Project6
+	.classpath
+	.git
+		branches
+
+		config
+		FETCH_HEAD
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+
+
+		objects
+			info
+
+			pack
+				pack-ce6bca580b8beedb48b0057a62fc3f12f0abc65f.idx
+				pack-ce6bca580b8beedb48b0057a62fc3f12f0abc65f.pack
+
+
+		refs
+			heads
+				main
+
+			remotes
+				origin
+					main
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+
+	src
+		object
+			Ex1.java
+			Quiz1.java
+			Quiz2.java
+			Quiz3.java
+
+		scope
+			Quiz1.java
+			Quiz2.java
+			Quiz3.java
+
+		staticex
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Quiz1.java
+
+		thisex
+			Ex1.java
+			Ex2.java
+
+
+
+Project7
+	.classpath
+	.git
+		branches
+
+		config
+		FETCH_HEAD
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+
+
+		objects
+			info
+
+			pack
+				pack-bb52c74df4ecf5348173664c38ac3a01a37249b0.idx
+				pack-bb52c74df4ecf5348173664c38ac3a01a37249b0.pack
+
+
+		refs
+			heads
+				main
+
+			remotes
+				origin
+					main
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+
+	src
+		array
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			Ex5.java
+			Ex6.java
+			Ex7.java
+			quiz
+				Quiz1.java
+				Quiz2.java
+				Quiz3.java
+				Quiz4.java
+				Quiz5.java
+				Quiz6.java
+				Quiz7.java
+				Quiz8.java
+
+
+		arraylist
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			quiz
+				Quiz1.java
+				Quiz2.java
+				Quiz3.java
+				Quiz4.java
+
+
+
+
+Project8
+	.classpath
+	.git
+		branches
+
+		config
+		FETCH_HEAD
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+
+
+		objects
+			info
+
+			pack
+				pack-ce7d3711a8b16828ef575b56cf7f0818c528726d.idx
+				pack-ce7d3711a8b16828ef575b56cf7f0818c528726d.pack
+
+
+		refs
+			heads
+				main
+
+			remotes
+				origin
+					main
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+
+	src
+		downcasting
+			Ex1.java
+			Quiz1.java
+			Quiz2.java
+
+		inheritance
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			quiz
+				Quiz1.java
+				Quiz2.java
+				Quiz3.java
+				Quiz4.java
+
+
+		override
+			Ex1.java
+			Ex2.java
+			quiz
+				Quiz1.java
+				Quiz2.java
+				Quiz3.java
+
+
+		polymorphism
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			Ex4.java
+			quiz
+				Quiz1.java
+				Quiz2.java
+
+
+		typecasting
+			Ex1.java
+			Ex2.java
+			Ex3.java
+			quiz
+				Quiz1.java
+
+
+
+
+Project9
+	.classpath
+	.git
+		branches
+
+		config
+		FETCH_HEAD
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+
+
+		objects
+			info
+
+			pack
+				pack-1f8b9c4982fcbca519f2b06ab4d48fff0d366a98.idx
+				pack-1f8b9c4982fcbca519f2b06ab4d48fff0d366a98.pack
+
+
+		refs
+			heads
+				main
+
+			remotes
+				origin
+					main
+
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+
+	src
+		abstractex
+			Ex1.java
+			Ex2.java
+			quiz
+				Quiz1.java
+				Quiz2.java
+				Quiz3.java
+				Quiz4.java
+				Quiz5.java
+
+
+		finalex
+			Ex1.java
+			Ex2.java
+			Ex3.java
+
+
+
+ProjectMini
+	.classpath
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+		main
+			Customer.class
+			Mine.class
+			order.txt
+
+
+	src
+		main
+			Mine.java
+			order.txt
+
+
+
+최지환
+	.classpath
+	.git
+		branches
+
+		COMMIT_EDITMSG
+		config
+		HEAD
+		hooks
+
+		index
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+
+
+		objects
+			04
+				b7b01f5f84ea792e6d12e06ad17ff50230b059
+
+			0c
+				6a86df686eb3b58ded5984c7a043b3deef44b6
+
+			30
+				445712c78bf58eaff47dc89add09267b4c8a65
+
+			48
+				4951283cd88bffb0645cd8c08016b5ae571f6a
+
+			4a
+				8f30d18e1f1f365496852e2a602a6275396744
+
+			52
+				e9d15ce2c8798d370e4e5bd2eaf6300859bfc8
+
+			57
+				bca72546725f93b294323a769debf40b67ff61
+
+			88
+				dabf4b91e484dc694b30597d6915bd69e5b9a7
+
+			8a
+				6b0836c6177356ca5403eb1f13f17354d90627
+
+			8c
+				9943d50cc1ad01b880ef4e85e8724e6cc19fd2
+
+			97
+				434604d12360640adf3a2e9b86795f81fb4974
+
+			99
+				f26c0203a7844de00dbfc56e6a35d8ed3c022c
+
+			ae
+				3c1726048cd06b9a143e0376ed46dd9b9a8d53
+
+			c5
+				b2bf7a0133181660ab97584fd2caa7c7a31b9f
+
+			cf
+				68f2540a0d0159fecfd78ab5370836784340c9
+
+			d5
+				13e17bb950e3d1973f78912b253c8f3ca2e1a9
+
+			d9
+				46fda91c82aa7322226f7270c20133ad7af784
+
+			df
+				4b8d2aeef12d1c695f0642a09a4b1bb4e21c5a
+
+			info
+
+			pack
+
+
+		refs
+			heads
+				main
+
+			tags
+
+
+
+	.gitignore
+	.project
+	.settings
+		org.eclipse.core.resources.prefs
+		org.eclipse.jdt.core.prefs
+
+	bin
+		main
+			Animal.class
+			Bpen.class
+			Calc.class
+			Calculator.class
+			Human.class
+			Mpen.class
+			Pen.class
+			Quiz1.class
+			Quiz2.class
+			Quiz3.class
+			Quiz4.class
+			Quiz5.class
+			Quiz6.class
+			Quiz7.class
+			Quiz8.class
+			Sc.class
+			Student.class
+			Tiger.class
+
+
+	src
+		main
+			Quiz1.java
+			Quiz2.java
+			Quiz3.java
+			Quiz4.java
+			Quiz5.java
+			Quiz6.java
+			Quiz7.java
+			Quiz8.java
+
+
+
